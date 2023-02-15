@@ -10,17 +10,12 @@ namespace restaurant10TablesReservation
     {
         static void Main(string[] args)
         {
-            string[] userNames = new string[10] { "migue","","","","","","","","","" };
-            int arrayCurrentIndex = 1;
+            string[] userNames = new string[10] { "","","","","","","","","","" };
+            int arrayCurrentIndex = 0;
             bool userType;
             Console.WriteLine("Welcome to the best restaurant in the world");
-            while (true)
+            while (arrayCurrentIndex < 10)
             {
-                if(arrayCurrentIndex == 10)
-                {
-                    Console.WriteLine("The restaurant is full, try again next year");
-                    Environment.Exit(0);
-                }
                 Console.WriteLine("Are you registered user? Write true, or false to register");
                 userType = Convert.ToBoolean(Console.ReadLine());
                 if(userType == true)
@@ -46,6 +41,14 @@ namespace restaurant10TablesReservation
                     arrayCurrentIndex++;
                 }
             }
+            Console.WriteLine("The restaurant is full, try again next year\n These are the guests to the dinner: ");
+            int auxIndex = 0;
+            foreach(string element in userNames)
+            {
+                Console.WriteLine("User number {0} and user Name:{1}", auxIndex+1, userNames[auxIndex]);
+                auxIndex++;
+            }
+            Environment.Exit(0);
         }
     }
 }
