@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "restaurant10TablesReservation/1.0.0": {
+        "runtime": {
+          "restaurant10TablesReservation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "restaurant10TablesReservation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

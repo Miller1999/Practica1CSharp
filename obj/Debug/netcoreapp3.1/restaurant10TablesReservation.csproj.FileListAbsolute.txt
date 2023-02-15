@@ -1,0 +1,14 @@
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\bin\Debug\netcoreapp3.1\restaurant10TablesReservation.exe
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\bin\Debug\netcoreapp3.1\restaurant10TablesReservation.deps.json
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\bin\Debug\netcoreapp3.1\restaurant10TablesReservation.runtimeconfig.json
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\bin\Debug\netcoreapp3.1\restaurant10TablesReservation.runtimeconfig.dev.json
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\bin\Debug\netcoreapp3.1\restaurant10TablesReservation.dll
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\bin\Debug\netcoreapp3.1\restaurant10TablesReservation.pdb
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\obj\Debug\netcoreapp3.1\restaurant10TablesReservation.csproj.AssemblyReference.cache
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\obj\Debug\netcoreapp3.1\restaurant10TablesReservation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\obj\Debug\netcoreapp3.1\restaurant10TablesReservation.AssemblyInfoInputs.cache
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\obj\Debug\netcoreapp3.1\restaurant10TablesReservation.AssemblyInfo.cs
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\obj\Debug\netcoreapp3.1\restaurant10TablesReservation.csproj.CoreCompileInputs.cache
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\obj\Debug\netcoreapp3.1\restaurant10TablesReservation.dll
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\obj\Debug\netcoreapp3.1\restaurant10TablesReservation.pdb
+D:\Escritorio\Platzi\Game Development\Curso de introduccion C# con NET\restaurant10TablesReservation\obj\Debug\netcoreapp3.1\restaurant10TablesReservation.genruntimeconfig.cache

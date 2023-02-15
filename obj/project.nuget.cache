@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8cmFhJ7d1jaCU7PnrRa7lGYu5MTGx02ShsvR5f73Jn+ocW4xO99ih/FfDoCvX5CfHqNfOCyFX4ABk8cioftcQ==",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\Platzi\\Game Development\\Curso de introduccion C# con NET\\restaurant10TablesReservation\\restaurant10TablesReservation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mille\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mille\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mille\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mille\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.32\\microsoft.netcore.app.host.win-x86.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
